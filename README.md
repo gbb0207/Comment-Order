@@ -19,7 +19,7 @@
 你可以根据个人习惯调整序号样式：
 
 1. 打开 IDE **Settings** (快捷键 `Ctrl+Alt+S`)。
-2. 导航至菜单项里  **Comment Order Settings**（与一级菜单同级）。
+2. 导航至菜单项里  **Comment Order Settings**（“其他设置”中，也可以搜索“Comment Order Settings”）。
 3. 在此处你可以：
    - 勾选 **数字序号** 开启 1, 2, 3 模式。
    - 勾选 **自定义字符** 并输入你想要的符号（如 `*`, `•` 等）。
